@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j4zib&label=Profile%20views&color=0e75b6&style=flat" alt="j4zib" /> </p>
 
-- 👨‍💻 All of my projects are available at [japp.io/about](https://japp.io/about)
+- 👨‍💻 All of my projects are available at [japp.io](https://japp.io)
 
 - 📝 I regularly write articles on [japp.io](https://japp.io)
 
