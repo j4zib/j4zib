@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [japp.io](https://japp.io)
 
-- 📝 I regularly write articles on [japp.io](https://japp.io)
-
 - 📫 Reach me via e-mail **support@japp.io**
 
 
