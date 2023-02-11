@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j4zib&label=Profile%20views&color=0e75b6&style=flat" alt="j4zib" /> </p>
 
-- 👨‍💻 Building [japp.io](https://japp.io) & [androxus.com](https://androxus.com)
+- 👨‍💻 Building [japp.io](https://japp.io)
 
 - 📫 Reach me via e-mail **support@japp.io**
 
